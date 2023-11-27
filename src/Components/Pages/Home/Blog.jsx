@@ -23,7 +23,6 @@ function Blog() {
     <section className={styles.blog}>
       <div className="pt-5">
         <h1
-          data-aos="fade-up"
           className="text-center  "
           style={{
             fontWeight: "600",
@@ -39,37 +38,19 @@ function Blog() {
       </div>
       <Container fluid className="pt-5 pb-0  m-0">
         <Row className={`pt-5 ${styles.blogImg}`}>
-          <Col
-            data-aos="fade-up"
-            lg={4}
-            md={6}
-            sm={12}
-            className="p-0 m-0 position-relative"
-          >
+          <Col lg={4} md={6} sm={12} className="p-0 m-0 position-relative">
             <img src={river} alt="river-house" />
             <a className={styles.overlayText} href="./" alt="asdad">
               Fluss-Haus
             </a>
           </Col>
-          <Col
-            data-aos="fade-up"
-            lg={4}
-            md={6}
-            sm={12}
-            className="p-0 m-0 position-relative"
-          >
+          <Col lg={4} md={6} sm={12} className="p-0 m-0 position-relative">
             <img src={golf} alt="golf-house" />
             <a className={styles.overlayText} href="./" alt="asdad">
               Golfhaus
             </a>
           </Col>
-          <Col
-            data-aos="fade-up"
-            lg={4}
-            md={6}
-            sm={12}
-            className="p-0 m-0 position-relative"
-          >
+          <Col lg={4} md={6} sm={12} className="p-0 m-0 position-relative">
             <img src={pool} alt="golf-house" />
             <a className={styles.overlayText} href="./" alt="asdad">
               Pool House
