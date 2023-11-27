@@ -1,5 +1,5 @@
 import React from "react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
 import styles from "./About.module.css"; // Import your styles module

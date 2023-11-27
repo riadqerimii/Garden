@@ -152,7 +152,7 @@
   background-repeat: no-repeat;
   object-fit: cover;
   object-position: center;
-  background-image: url("./img//Geneva\ map.avif");
+  background-image: url("./img/Map.jpg");
 
   cursor: pointer;
 }
@@ -183,7 +183,7 @@
 .backgrounds {
   filter: brightness(90%);
 
-  background-image: url("./img//Geneva\ map.avif");
+  background-image: url("./img/Map.jpg");
   background-repeat: no-repeat;
   object-fit: cover;
   cursor: pointer;

@@ -4,7 +4,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import styles from "./Home.module.css";
 
-import pool from "./img/Farm-house.avif";
+import pool from "./img/pool house.jpg";
 
 export default function Work() {
   useEffect(() => {

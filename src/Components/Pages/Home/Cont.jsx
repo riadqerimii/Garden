@@ -5,8 +5,8 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 import styles from "./Home.module.css";
-import gardens from "./img/Golf-house.avif";
-import gardenss from "./img/Farm-house.avif";
+import gardens from "./img/Golf house.jpg";
+import gardenss from "./img/Garden-1.jpg";
 
 export default function Cont() {
   useEffect(() => {

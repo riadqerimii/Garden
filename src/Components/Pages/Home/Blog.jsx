@@ -5,12 +5,12 @@ import styles from "./Home.module.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-import river from "./img/image-5.avif";
-import farm from "./img/Farm-house.avif";
-import golf from "./img/Golf-house.avif";
-import mill from "./img/image-6.avif";
-import pool from "./img/Bahams.avif";
-import villa from "./img/Bahamas villas.avif";
+import river from "./img/Garden-1.jpg";
+import farm from "./img/Garden-2.jpg";
+import golf from "./img/Garden-3.jpg";
+import mill from "./img/Bahmas Villas.jpg";
+import pool from "./img/pool house.jpg";
+import villa from "./img/Golf house.jpg";
 
 function Blog() {
   useEffect(() => {

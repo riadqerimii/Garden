@@ -2,9 +2,9 @@ import React, { useEffect, useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import styles from "./Home.module.css";
 
-import image1 from "./img/imag-1.avif";
-import image2 from "./img/image-2.avif";
-import image3 from "./img/image-3.avif";
+import image1 from "./img/Garden-1.jpg";
+import image2 from "./img/Garden-2.jpg";
+import image3 from "./img/Garden-3.jpg";
 
 const carouselItems = [
   {
