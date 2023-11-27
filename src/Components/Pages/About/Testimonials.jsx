@@ -109,10 +109,7 @@ function Testimonials() {
             </Col>
           </Row>
         </div>
-        <div
-          data-aos="fade-up"
-          className={display === 2 ? styles.show : styles.hide}
-        >
+        <div className={display === 2 ? styles.show : styles.hide}>
           <Row>
             <Col md={6}>
               <img
