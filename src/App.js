@@ -1,3 +1,5 @@
+import React from "react";
+
 import "./App.css";
 import About from "./Components/Pages/About/About.jsx";
 import Contact from "./Components/Pages/Contact/Contact.jsx";
