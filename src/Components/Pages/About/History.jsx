@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import aboutStyles from "./About.module.css";
-import image from "../Home/img/Garden-1.jpg";
+import image from "./Garden-1.jpg";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
